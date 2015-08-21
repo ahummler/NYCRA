@@ -20,8 +20,8 @@ ul {
 	background-color: blue;
 }
 
-h3 { text-align: center;
-	
+h2 { text-align: center;
+
 }
 
 img {
@@ -29,11 +29,21 @@ img {
 	
 }
 
-a { 
+a {
 	text-decoration: none;
-	color: white;
 }
 
+#mission a { 
+	text-decoration: none;
+	color: red;
+}
+
+
+
+#mission {
+	max-width: 350px;
+
+}
 
 
 
