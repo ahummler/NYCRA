@@ -32,11 +32,14 @@ ul {
 h3 { text-align: center; size: 200%;
 	
 }
+
+/*
 #donate {margin: 0px 550px 0px 550px ;}
 footer {text-align: right;}
 h5 {width: 900px; 
 	margin: 0px auto;
     }
+*/
 
 h2 { text-align: center;
 
@@ -51,3 +54,12 @@ img {
 a {
 	text-decoration: none;
 }
+
+p {
+	margin-left: 100px;
+}
+
+footer { 
+	margin-left: 100px
+}
+
